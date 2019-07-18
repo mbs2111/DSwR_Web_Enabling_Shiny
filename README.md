@@ -21,8 +21,8 @@ Prerequsite:  RSTUDIO.
 
 1) Open R Studio.
     File -> New File -> Shiny Web Application.
-2) Create Server.R and ui.R Files. [both files well execute.]
-3) Click on -> Run App
+2) Create Server.R and ui.R Files. 
+3) Click on -> Run App. [both files will execute.]
 4) View the Ouput in Viewer.
 
    
